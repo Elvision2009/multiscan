@@ -1,0 +1,12 @@
+mysql
+sa
+postgres
+anonymous
+admin
+guest
+root
+test
+user
+user1
+webserver
+su
